@@ -1,0 +1,17 @@
+$size: 50px;
+
+.logo {
+  background-color: black;
+  color: white;
+  border-radius: 50%;
+  width: $size;
+  height: $size;
+  text-align: center;
+  line-height: $size;
+
+  h1 {
+    font-size: 32px;
+    margin: 0;
+    padding: 0;
+  }
+}
